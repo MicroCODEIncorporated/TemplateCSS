@@ -57,7 +57,7 @@
  *
  *  Date:         By-Group:   Rev:     Description:
  *
- *  07-MAr-2022   TJM-MCODE  {0001}    New module for common reusable Cascading Style Sheet (CSS) files.
+ *  07-Mar-2022   TJM-MCODE  {0001}    New module for common reusable Cascading Style Sheet (CSS) files.
  *
  *
  */
@@ -66,21 +66,22 @@
 /* #endregion */
 /* #endregion */
 
+/* #region  C S S */
 /* #region  S T Y L E S */
 
 /* #region  I D  -- highest priority */
 
 #id-name {
-    /* …style attributes */
+
     font-family: 'Libre Franklin', sans-serif;
 }
 
 /* #endregion */
 
-/*#region  C L A S S -- lower priority */
+/* #region  C L A S S -- lower priority */
 
 .class-name {
-    /* …style attributes */
+
     font-family: 'Libre Franklin', sans-serif;
 }
 
@@ -89,9 +90,11 @@
 /* #region  T A G -- lowest priority */
 
 tag-name {
-    /* …style attributes */
+
     font-family: 'Michroma', sans-serif;
 }
+
+/* #endregion */
 
 /* #endregion */
 /* #endregion */
