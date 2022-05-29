@@ -89,7 +89,7 @@
 
 /* #region  T A G -- lowest priority, references <tag-name> - an HTML Tag */
 
-tag-name {
+tagName {
 
     font-family: 'Michroma', sans-serif;
 }
